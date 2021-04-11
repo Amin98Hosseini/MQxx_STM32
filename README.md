@@ -1,6 +1,6 @@
 ## Mqxx Sensor library for STM32 HAL
 
-![GY906](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.waveshare.com%2Fmq-2-gas-sensor.htm&psig=AOvVaw39gI1cQgTQxBoH2NanlIS1&ust=1618222886727000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiquJb89e8CFQAAAAAdAAAAABAJ)
+![GY906](https://www.waveshare.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/q/mq-2-gas-sensor-3_5.jpg)
 
 
 *	Author:     Amin Hosseini
